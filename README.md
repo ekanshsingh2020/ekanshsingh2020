@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there! 👋🏻
 
-<!--
-**ekanshsingh2020/ekanshsingh2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ekansh Singh 🙋🏻‍♂️, a final year undergraduate at Indian Institute of Technology, Delhi. I am deeply interested in computer science and love to explore various dimensions of technology.
 
-Here are some ideas to get you started:
+I am a passionate music lover and enjoy exploring different genres. When I'm not coding, you can find me listening to my favorite tunes or exploring new places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me 🤝🏻
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ekanshsingh2020/) and check out some of my projects on GitHub.
+
+Let's connect and collaborate! 🚀
+
+<div align="center">
+  
+![Ekansh's Github Statistics](https://github-readme-stats.vercel.app/api?username=ekanshsingh2020&show_icons=true)
+
+</div>
