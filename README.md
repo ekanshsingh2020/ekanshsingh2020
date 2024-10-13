@@ -1,6 +1,6 @@
 # Hello there! 👋🏻
 
-I am Ekansh Singh 🙋🏻‍♂️, currently working as a Quantitative Analyst at Goldman Sachs I did my B.Tech. from Indian Institute of Technology, Delhi (IITD) with my major in Electrical Engineering and a minor in Computer Science. I am deeply interested in computer science and finance and love to explore various dimensions of technology.
+I am Ekansh Singh 🙋🏻‍♂️, I am currently working as a Quantitative Analyst at Goldman Sachs, I did my B.Tech. from Indian Institute of Technology, Delhi (IITD) with my major in Electrical Engineering and a minor in Computer Science. I am deeply interested in computer science and finance and love to explore various dimensions of technology.
 
 Some of the relevant courses that I did during my undergraduate studies were Data Structures and Algorithms, Computer Architecture, Machine Learning, Operating Systems, Artificial Intelligence, Database Management Systems, Design of Algorithms, Social Computing, Network Security and Natural Language Processing
 
